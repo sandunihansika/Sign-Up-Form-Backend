@@ -12,4 +12,4 @@ Run `ng serve` or `npm start` to compile the code.
 
 ### Further help
 
-To get more help on Node.js go check out the [Node.js Guides](https://nodejs.org/en/docs/guides/).
+To get more help on Node.js go check out the [Node.js Guides](https://nodejs.org/en/docs/guides/) and MongoDB go check out the [MongoDB Guides](https://docs.mongodb.com/guides/).
